@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="150"
+   height="150"
+   viewBox="0 0 473.33334 73.666664"
+   sodipodi:docname="valensas-seeklogo.eps"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="ink_ext_XXXXXX"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,70.666667)">
+    <g
+       id="g10"
+       transform="scale(0.1)">
+      <path
+         d="M 760.355,256.547 602.684,88.0977 C 543.07,28.4805 470.43,-0.964844 396.191,0.253906 321.965,-0.984375 249.305,28.4805 189.688,88.0977 L 32.0195,256.547 C -37.707,331.055 74.0547,435.645 143.781,361.137 L 299.629,194.602 c 31.848,-31.446 65.941,-41.989 96.559,-41.286 30.613,-0.703 64.734,9.84 96.55,41.282 l 155.856,166.539 c 69.726,74.508 181.488,-30.082 111.761,-104.59"
+         style="fill:#6167a4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path12" />
+      <path
+         d="m 291.816,282.504 c 0,57.828 46.879,104.707 104.707,104.707 57.832,0 104.711,-46.879 104.711,-104.707 0,-57.832 -46.879,-104.711 -104.711,-104.711 -57.828,0 -104.707,46.879 -104.707,104.711"
+         style="fill:#6167a4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path14" />
+      <g
+         id="g16"
+         transform="scale(10)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,91.9203,18.2199)"
+           style="font-variant:normal;font-weight:bold;font-size:34.4659px;font-family:Gen_Arial-Rounded-MT;-inkscape-font-specification:Gen_Arial-Rounded-MT-Bold;writing-mode:lr-tb;fill:#a7a5a6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text20"><tspan
+             x="0 32.230099 66.665741 89.968903 124.40455 159.18484 191.82826 226.26392"
+             y="0"
+             sodipodi:role="line"
+             id="tspan18">valensas</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
